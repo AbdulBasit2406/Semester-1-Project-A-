@@ -1,0 +1,43 @@
+Toyota Supra,0,2021,8,Available,3400000
+Honda Civic,1,2020,9,Available,2800000
+Suzuki Alto,2,2022,7,Available,1500000
+Hyundai Sonata,3,2021,8,Available,3300000
+Ford Mustang,4,2020,7,Sold,4500000
+Chevrolet Camaro,5,2021,6,Sold,4200000
+Tesla Model S,6,2022,5,Available,7500000
+Nissan GT-R,7,2021,9,Available,6600000
+BMW 3 Series,8,2020,8,Available,3800000
+Audi A4,9,2019,7,Available,3600000
+Mercedes C-Class,10,2021,9,Available,4000000
+Volkswagen Passat,11,2020,8,Available,3000000
+Kia Sportage,12,2021,7,Available,3500000
+Mazda CX-5,13,2022,8,Available,3700000
+Subaru Outback,14,2020,7,Available,3300000
+Volvo XC90,15,2021,9,Available,4900000
+Jeep Wrangler,16,2022,8,Available,4500000
+Lexus RX,17,2020,8,Available,5000000
+Chevrolet Tahoe,18,2021,7,Available,5500000
+Dodge Charger,19,2022,9,Available,4600000
+Toyota Corolla,20,2021,8,Available,2400000
+Honda Accord,21,2020,9,Available,3100000
+Nissan Altima,22,2021,7,Available,2800000
+Ford Explorer,23,2022,8,Available,5000000
+Tesla Model 3,24,2021,5,Available,4800000
+Hyundai Elantra,25,2020,7,Available,2000000
+BMW X5,26,2021,9,Available,6700000
+Audi Q7,27,2022,9,Available,7200000
+Mercedes GLE,28,2020,8,Available,6900000
+Jeep Grand Cherokee,29,2021,8,Available,5400000
+Land Rover Discovery,30,2022,9,Available,8500000
+Porsche 911,31,2021,3,Available,9200000
+Ferrari F8,32,2022,6,Sold,35000000
+Lamborghini Huracan,33,2021,4,Available,33000000
+Bugatti Chiron,34,2020,1,Available,90000000
+McLaren 720S,35,2021,4,Available,25000000
+Aston Martin DB11,36,2022,9,Available,20000000
+Rolls Royce Phantom,37,2020,7,Available,70000000
+Bentley Continental,38,2021,8,Available,52000000
+Jaguar F-Type,39,2022,9,Available,4900000
+Alfa Romeo Giulia,40,2021,8,Available,4500000
+Maserati Ghibli,41,2020,9,Available,5100000
+Basit Car,42,2020,9,Available,929291
